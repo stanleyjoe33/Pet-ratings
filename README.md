@@ -1,5 +1,5 @@
 # Pet-Ratings
-
+Tweets from the twitter archive of a popular pet rating twitter handle @we_rate_dogs were curated using the twitter API and then analyzed for insight
 
 Wrangling was done in three phases:
 1. Gathering.
